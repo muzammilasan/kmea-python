@@ -1,2 +1,2 @@
-# kmea-python
-All Python programs done at KMEA
+# KMEA-Python
+All Python programs that I did at KMEA
